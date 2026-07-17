@@ -7,7 +7,7 @@
 */
 import java.util.Scanner;
 
-class Input {
+class Input01 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in); // Create Scanner object
         System.out.print("Enter your name: ");

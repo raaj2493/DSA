@@ -6,7 +6,7 @@
    • Java is case-sensitive: "Main" and "main" are different identifiers.
 */
 class Basics {
-   public static void main(String[] args) {
-    System.out.println("hello world");
-   }
+    public static void main(String[] args) {
+
+    }
 }

@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Input {
+public class InputArray {
     public static void main(String[] args) {
         Scanner pScanner = new Scanner(System.in);
 

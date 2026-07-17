@@ -8,7 +8,7 @@
    • boolean stores true or false.
    • Choose types based on memory efficiency and range.
 */
-class Primitives {
+class Primitives01 {
     public static void main(String[] args) {
         byte b = 100;     // Range: -128 to 127
         short s = 32000;  // Larger than byte

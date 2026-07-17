@@ -12,7 +12,7 @@
      args[0] = "hello", args[1] = "world".
    • Public class name must match filename.
 */
-public class Main {
+public class FindMinimum {
     public static void main(String[] args) {
         System.out.println("Main method running!");
         for (String arg : args) { // Enhanced for loop
