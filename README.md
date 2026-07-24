@@ -75,3 +75,15 @@ Below is my live progress roadmap through the complete pattern framework.
 ```bash
 git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
 cd YOUR_REPO_NAME
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/raaj2493/DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/raaj2493/DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
+<!---LeetCode Topics End-->
