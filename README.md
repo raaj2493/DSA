@@ -108,5 +108,10 @@ cd YOUR_REPO_NAME
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/raaj2493/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/raaj2493/DSA/tree/main/0027-remove-element/) | Easy |
+| [0125-valid-palindrome](https://github.com/raaj2493/DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0283-move-zeroes](https://github.com/raaj2493/DSA/tree/main/0283-move-zeroes/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0125-valid-palindrome](https://github.com/raaj2493/DSA/tree/main/0125-valid-palindrome/) | Easy |
 <!---LeetCode Topics End-->
