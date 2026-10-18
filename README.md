@@ -83,6 +83,7 @@ cd YOUR_REPO_NAME
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/raaj2493/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/raaj2493/DSA/tree/main/0027-remove-element/) | Easy |
+| [0283-move-zeroes](https://github.com/raaj2493/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/raaj2493/DSA/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/raaj2493/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/raaj2493/DSA/tree/main/0724-find-pivot-index/) | Easy |
@@ -107,4 +108,5 @@ cd YOUR_REPO_NAME
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/raaj2493/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/raaj2493/DSA/tree/main/0027-remove-element/) | Easy |
+| [0283-move-zeroes](https://github.com/raaj2493/DSA/tree/main/0283-move-zeroes/) | Easy |
 <!---LeetCode Topics End-->
