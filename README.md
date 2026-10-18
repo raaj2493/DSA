@@ -110,8 +110,10 @@ cd YOUR_REPO_NAME
 | [0027-remove-element](https://github.com/raaj2493/DSA/tree/main/0027-remove-element/) | Easy |
 | [0125-valid-palindrome](https://github.com/raaj2493/DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0283-move-zeroes](https://github.com/raaj2493/DSA/tree/main/0283-move-zeroes/) | Easy |
+| [0344-reverse-string](https://github.com/raaj2493/DSA/tree/main/0344-reverse-string/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/raaj2493/DSA/tree/main/0125-valid-palindrome/) | Easy |
+| [0344-reverse-string](https://github.com/raaj2493/DSA/tree/main/0344-reverse-string/) | Easy |
 <!---LeetCode Topics End-->
