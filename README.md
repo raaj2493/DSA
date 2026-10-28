@@ -120,12 +120,14 @@ cd YOUR_REPO_NAME
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raaj2493/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/raaj2493/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/raaj2493/DSA/tree/main/0344-reverse-string/) | Easy |
+| [0844-backspace-string-compare](https://github.com/raaj2493/DSA/tree/main/0844-backspace-string-compare/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/raaj2493/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/raaj2493/DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/raaj2493/DSA/tree/main/0344-reverse-string/) | Easy |
+| [0844-backspace-string-compare](https://github.com/raaj2493/DSA/tree/main/0844-backspace-string-compare/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -137,4 +139,12 @@ cd YOUR_REPO_NAME
 | [0016-3sum-closest](https://github.com/raaj2493/DSA/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/raaj2493/DSA/tree/main/0018-4sum/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/raaj2493/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0844-backspace-string-compare](https://github.com/raaj2493/DSA/tree/main/0844-backspace-string-compare/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0844-backspace-string-compare](https://github.com/raaj2493/DSA/tree/main/0844-backspace-string-compare/) | Easy |
 <!---LeetCode Topics End-->
