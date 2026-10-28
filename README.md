@@ -83,6 +83,7 @@ cd YOUR_REPO_NAME
 | ------- | ------- |
 | [0015-3sum](https://github.com/raaj2493/DSA/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/raaj2493/DSA/tree/main/0016-3sum-closest/) | Medium |
+| [0018-4sum](https://github.com/raaj2493/DSA/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/raaj2493/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/raaj2493/DSA/tree/main/0027-remove-element/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raaj2493/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -112,6 +113,7 @@ cd YOUR_REPO_NAME
 | ------- | ------- |
 | [0015-3sum](https://github.com/raaj2493/DSA/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/raaj2493/DSA/tree/main/0016-3sum-closest/) | Medium |
+| [0018-4sum](https://github.com/raaj2493/DSA/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/raaj2493/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/raaj2493/DSA/tree/main/0027-remove-element/) | Easy |
 | [0125-valid-palindrome](https://github.com/raaj2493/DSA/tree/main/0125-valid-palindrome/) | Easy |
@@ -133,5 +135,6 @@ cd YOUR_REPO_NAME
 | ------- | ------- |
 | [0015-3sum](https://github.com/raaj2493/DSA/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/raaj2493/DSA/tree/main/0016-3sum-closest/) | Medium |
+| [0018-4sum](https://github.com/raaj2493/DSA/tree/main/0018-4sum/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/raaj2493/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
