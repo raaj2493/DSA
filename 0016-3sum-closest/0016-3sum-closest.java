@@ -1,0 +1,35 @@
+class Solution {
+    public int threeSumClosest(int[] nums, int target) {
+        Arrays.sort(nums);
+        int n = nums.length;
+        
+        // Initialize closest sum with first 3 elements
+        int closestSum = nums[0] + nums[1] + nums[2];
+        
+        for (int i = 0; i < n - 2; i++) {
+            int left = i + 1;
+            int right = n - 1;
+            
+            while (left < right) {
+                int sum = nums[i] + nums[left] + nums[right];
+                
+                // Update closest sum if current is closer
+                if (Math.abs(sum - target) < Math.abs(closestSum - target)) {
+                    closestSum = sum;
+                }
+                
+                // Move pointers
+                if (sum < target) {
+                    left++;
+                } else if (sum > target) {
+                    right--;
+                } else {
+                    // Exact match found
+                    return sum;
+                }
+            }
+        }
+        
+        return closestSum;
+    }
+}
