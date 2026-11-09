@@ -1,3 +1,4 @@
+
 class Solution {
     public int numOfSubarrays(int[] arr, int k, int threshold) {
 
@@ -9,9 +10,8 @@ class Solution {
             sum += arr[i];
         }
 
-        double avg = (double) sum / k;
-
-        if (avg >= threshold) {
+        // Check the first window
+        if (sum >= k * threshold) {
             count++;
         }
 
@@ -21,9 +21,8 @@ class Solution {
             sum -= arr[high - k]; // Remove outgoing element
             sum += arr[high];     // Add incoming element
 
-            avg = (double) sum / k;
-
-            if (avg >= threshold) {
+            // Check the current window
+            if (sum >= k * threshold) {
                 count++;
             }
         }
