@@ -3,35 +3,24 @@ import java.util.*;
 
 class Solution {
     public int[] intersection(int[] nums1, int[] nums2) {
+        HashSet<Integer> set = new HashSet<>();
 
-        HashSet<Integer> set1 = new HashSet<>();
-        HashSet<Integer> set2 = new HashSet<>();
-
-        // Step 1: Store unique elements
-        for (int val : nums1) {
-            set1.add(val);
+        // Store unique elements from nums1
+        for (int num : nums1) {
+            set.add(num);
         }
 
-        for (int val : nums2) {
-            set2.add(val);
-        }
+        // Collect common unique elements
+        int[] temp = new int[Math.min(nums1.length, nums2.length)];
+        int index = 0;
 
-        // Step 2: Store common elements
-        ArrayList<Integer> result = new ArrayList<>();
-
-        for (int val : set1) {
-            if (set2.contains(val)) {
-                result.add(val);
+        for (int num : nums2) {
+            if (set.contains(num)) {
+                temp[index++] = num;
+                set.remove(num); // Prevent duplicates
             }
         }
 
-        // Step 3: Convert ArrayList to int[]
-        int[] answer = new int[result.size()];
-
-        for (int i = 0; i < result.size(); i++) {
-            answer[i] = result.get(i);
-        }
-
-        return answer;
+        return Arrays.copyOf(temp, index);
     }
 }
