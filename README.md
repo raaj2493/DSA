@@ -91,6 +91,7 @@ cd YOUR_REPO_NAME
 | [0217-contains-duplicate](https://github.com/raaj2493/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/raaj2493/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/raaj2493/DSA/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/raaj2493/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/raaj2493/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/raaj2493/DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0724-find-pivot-index](https://github.com/raaj2493/DSA/tree/main/0724-find-pivot-index/) | Easy |
@@ -114,6 +115,7 @@ cd YOUR_REPO_NAME
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/raaj2493/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/raaj2493/DSA/tree/main/0242-valid-anagram/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/raaj2493/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/raaj2493/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -127,6 +129,7 @@ cd YOUR_REPO_NAME
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raaj2493/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/raaj2493/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/raaj2493/DSA/tree/main/0344-reverse-string/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/raaj2493/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0844-backspace-string-compare](https://github.com/raaj2493/DSA/tree/main/0844-backspace-string-compare/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/raaj2493/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## String
@@ -141,6 +144,7 @@ cd YOUR_REPO_NAME
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raaj2493/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/raaj2493/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/raaj2493/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -149,6 +153,7 @@ cd YOUR_REPO_NAME
 | [0018-4sum](https://github.com/raaj2493/DSA/tree/main/0018-4sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/raaj2493/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/raaj2493/DSA/tree/main/0242-valid-anagram/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/raaj2493/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/raaj2493/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
