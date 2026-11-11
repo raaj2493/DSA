@@ -113,6 +113,7 @@ cd YOUR_REPO_NAME
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/raaj2493/DSA/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/raaj2493/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/raaj2493/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -132,6 +133,7 @@ cd YOUR_REPO_NAME
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/raaj2493/DSA/tree/main/0125-valid-palindrome/) | Easy |
+| [0242-valid-anagram](https://github.com/raaj2493/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/raaj2493/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0844-backspace-string-compare](https://github.com/raaj2493/DSA/tree/main/0844-backspace-string-compare/) | Easy |
 ## Binary Search
@@ -146,6 +148,7 @@ cd YOUR_REPO_NAME
 | [0016-3sum-closest](https://github.com/raaj2493/DSA/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/raaj2493/DSA/tree/main/0018-4sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/raaj2493/DSA/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/raaj2493/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/raaj2493/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
