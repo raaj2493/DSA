@@ -1,36 +1,27 @@
-
-import java.util.*;
+import java.util.HashMap;
 
 class Solution {
     public boolean isAnagram(String s, String t) {
-
-        // Step 1: Length check
         if (s.length() != t.length()) {
             return false;
         }
 
-        // Step 2: Store character frequencies
         HashMap<Character, Integer> map = new HashMap<>();
 
+        // 1. Count characters in s
         for (char ch : s.toCharArray()) {
             map.put(ch, map.getOrDefault(ch, 0) + 1);
         }
 
-        // Step 3: Consume frequencies using second string
+        // 2. Subtract characters in t
         for (char ch : t.toCharArray()) {
-
-            if (!map.containsKey(ch)) {
-                return false;
+            int count = map.getOrDefault(ch, 0);
+            if (count == 0) {
+                return false; // Either missing or appeared too many times
             }
-
-            map.put(ch, map.get(ch) - 1);
-
-            if (map.get(ch) < 0) {
-                return false;
-            }
+            map.put(ch, count - 1);
         }
 
-        // Step 4: All characters matched
         return true;
     }
 }
