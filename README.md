@@ -119,6 +119,7 @@ cd YOUR_REPO_NAME
 | [0242-valid-anagram](https://github.com/raaj2493/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/raaj2493/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/raaj2493/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0567-permutation-in-string](https://github.com/raaj2493/DSA/tree/main/0567-permutation-in-string/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -132,6 +133,7 @@ cd YOUR_REPO_NAME
 | [0283-move-zeroes](https://github.com/raaj2493/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/raaj2493/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/raaj2493/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0567-permutation-in-string](https://github.com/raaj2493/DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [0844-backspace-string-compare](https://github.com/raaj2493/DSA/tree/main/0844-backspace-string-compare/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/raaj2493/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## String
@@ -140,6 +142,7 @@ cd YOUR_REPO_NAME
 | [0125-valid-palindrome](https://github.com/raaj2493/DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/raaj2493/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/raaj2493/DSA/tree/main/0344-reverse-string/) | Easy |
+| [0567-permutation-in-string](https://github.com/raaj2493/DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [0844-backspace-string-compare](https://github.com/raaj2493/DSA/tree/main/0844-backspace-string-compare/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/raaj2493/DSA/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 ## Binary Search
@@ -171,6 +174,7 @@ cd YOUR_REPO_NAME
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/raaj2493/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0567-permutation-in-string](https://github.com/raaj2493/DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/raaj2493/DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/raaj2493/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/raaj2493/DSA/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
