@@ -94,6 +94,7 @@ cd YOUR_REPO_NAME
 | [0349-intersection-of-two-arrays](https://github.com/raaj2493/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/raaj2493/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/raaj2493/DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0704-binary-search](https://github.com/raaj2493/DSA/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/raaj2493/DSA/tree/main/0724-find-pivot-index/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/raaj2493/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/raaj2493/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -155,6 +156,7 @@ cd YOUR_REPO_NAME
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raaj2493/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/raaj2493/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/raaj2493/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0704-binary-search](https://github.com/raaj2493/DSA/tree/main/0704-binary-search/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/raaj2493/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
