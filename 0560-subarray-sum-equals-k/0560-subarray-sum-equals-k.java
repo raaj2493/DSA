@@ -1,33 +1,24 @@
+import java.util.HashMap;
+
 class Solution {
     public int subarraySum(int[] nums, int k) {
+        HashMap<Integer, Integer> map = new HashMap<>();
 
-        int n = nums.length;
+        map.put(0, 1);
+
+        int sum = 0;
         int count = 0;
 
-        // Build prefix sum array
-        int[] prefix = new int[n];
-        prefix[0] = nums[0];
+        for (int num : nums) {
+            sum += num;
 
-        for (int i = 1; i < n; i++) {
-            prefix[i] = prefix[i - 1] + nums[i];
-        }
+            int required = sum - k;
 
-        // Generate all subarrays
-        for (int left = 0; left < n; left++) {
-            for (int right = left; right < n; right++) {
-
-                int sum;
-
-                if (left == 0) {
-                    sum = prefix[right];
-                } else {
-                    sum = prefix[right] - prefix[left - 1];
-                }
-
-                if (sum == k) {
-                    count++;
-                }
+            if (map.containsKey(required)) {
+                count += map.get(required);
             }
+
+            map.put(sum, map.getOrDefault(sum, 0) + 1);
         }
 
         return count;
