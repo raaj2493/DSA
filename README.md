@@ -100,6 +100,7 @@ cd YOUR_REPO_NAME
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/raaj2493/DSA/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/raaj2493/DSA/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/raaj2493/DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [2270-number-of-ways-to-split-array](https://github.com/raaj2493/DSA/tree/main/2270-number-of-ways-to-split-array/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -110,6 +111,7 @@ cd YOUR_REPO_NAME
 | [1004-max-consecutive-ones-iii](https://github.com/raaj2493/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/raaj2493/DSA/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/raaj2493/DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [2270-number-of-ways-to-split-array](https://github.com/raaj2493/DSA/tree/main/2270-number-of-ways-to-split-array/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
